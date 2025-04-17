@@ -67,11 +67,12 @@ print(classification_report1)
 ```
 
 ## Output:
-![Screenshot 2025-03-24 145542](https://github.com/user-attachments/assets/959c9f22-a36e-47c2-be58-4fe705f83998)
 
-![Screenshot 2025-03-24 145551](https://github.com/user-attachments/assets/161f53e1-ff99-4a63-b542-562a98e4d64e)
+![image](https://github.com/user-attachments/assets/66b9ca40-dd80-4ae5-a62d-c845b65d6303)
 
-![image](https://github.com/user-attachments/assets/ec6cf7d3-1667-43f1-80c8-3d27859bfed8)
+![image](https://github.com/user-attachments/assets/bd4689d9-d42b-4be3-a6fd-35a0699105b3)
+
+![image](https://github.com/user-attachments/assets/90cb1c1a-dd3c-4561-8d7b-84df24f3339d)
 
 
 
